@@ -1,5 +1,7 @@
 # Flight-Ticket-Booking-and-Management-System
-<img width="514" alt="Ảnh màn hình 2025-04-09 lúc 12 36 44" src="https://github.com/user-attachments/assets/654df2fa-3147-4a44-8836-424ebeadf92d" />
+<p align="center">
+  <img width="514" alt="Ảnh màn hình 2025-04-09 lúc 12 36 44" src="https://github.com/user-attachments/assets/654df2fa-3147-4a44-8836-424ebeadf92d" />
+</p>
 
 ## INTRODUCE
 - This project involves both lecturers and students, and includes the project title
