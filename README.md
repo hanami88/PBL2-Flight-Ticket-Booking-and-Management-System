@@ -1,4 +1,5 @@
-<img width="514" alt="Ảnh màn hình 2025-04-09 lúc 12 36 44" src="https://github.com/user-attachments/assets/654df2fa-3147-4a44-8836-424ebeadf92d" /># Flight-Ticket-Booking-and-Management-System
+# Flight-Ticket-Booking-and-Management-System
+<img width="514" alt="Ảnh màn hình 2025-04-09 lúc 12 36 44" src="https://github.com/user-attachments/assets/654df2fa-3147-4a44-8836-424ebeadf92d" />
 ## INTRODUCE
 - Including both lecturers and students working on the project, along with the project title.
 <img width="1423" alt="Ảnh màn hình 2025-04-09 lúc 12 34 39" src="https://github.com/user-attachments/assets/bd3c7e40-eabd-4fb3-95fc-500e35f3bae6" />
